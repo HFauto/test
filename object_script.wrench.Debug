@@ -1,0 +1,11 @@
+debug/main.o
+debug/Wrench.o
+debug/Serialwindow.o
+debug/wrechversion1.o
+debug/replayThread.o
+debug/readThread.o
+debug/unPacketThread.o
+debug/moc_Wrench.o
+debug/moc_Serialwindow.o
+debug/moc_wrechversion1.o
+debug/moc_theThread.o

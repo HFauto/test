@@ -1,0 +1,11 @@
+release/main.o
+release/Wrench.o
+release/Serialwindow.o
+release/wrechversion1.o
+release/replayThread.o
+release/readThread.o
+release/unPacketThread.o
+release/moc_Wrench.o
+release/moc_Serialwindow.o
+release/moc_wrechversion1.o
+release/moc_theThread.o
